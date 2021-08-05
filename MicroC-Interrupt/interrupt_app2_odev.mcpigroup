@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=interrupt_app2.mcppi
+Project1=interrupt_app2_odev.mcppi
+[ActiveProject]
+Index=1

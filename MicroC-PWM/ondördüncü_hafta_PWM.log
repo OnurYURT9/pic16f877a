@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\gs_fa\Desktop\MicroC\ondördüncü_hafta_PWM.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\gs_fa\Desktop\MicroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "ond_rd_nc__hafta_PWM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	ond_rd_nc__hafta_PWM.c
+diagnostics: 35	123	Compiled Successfully	ond_rd_nc__hafta_PWM.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 10 (3%)  Free RAM (bytes): 342 (97%)	Used RAM (bytes): 10 (3%)  Free RAM (bytes): 342 (97%)
+hint: 0	1144	Used ROM (program words): 262 (3%)  Free ROM (program words): 7930 (97%)	Used ROM (program words): 262 (3%)  Free ROM (program words): 7930 (97%)
+diagnostics: 0	125	Project Linked Successfully	ondördüncü_hafta_PWM.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'ondördüncü_hafta_PWM.mcppi' completed: 94 ms	 
+diagnostics: 0	103	Finished successfully: 25 May 2020, 14:29:09	ondördüncü_hafta_PWM.mcppi

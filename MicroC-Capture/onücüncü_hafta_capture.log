@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\gs_fa\Desktop\MicroC\onücüncü_hafta_capture.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\gs_fa\Desktop\MicroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "on_c_nc__hafta_capture.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	on_c_nc__hafta_capture.c
+diagnostics: 26	123	Compiled Successfully	on_c_nc__hafta_capture.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)
+hint: 0	1144	Used ROM (program words): 46 (1%)  Free ROM (program words): 8146 (99%)	Used ROM (program words): 46 (1%)  Free ROM (program words): 8146 (99%)
+diagnostics: 0	125	Project Linked Successfully	onücüncü_hafta_capture.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'onücüncü_hafta_capture.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 18 May 2020, 04:54:34	onücüncü_hafta_capture.mcppi

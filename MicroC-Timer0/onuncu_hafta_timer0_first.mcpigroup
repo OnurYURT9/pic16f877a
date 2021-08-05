@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=interrupt_app2_odev.mcppi
+Project1=onuncu_hafta_timer0_first.mcppi
+[ActiveProject]
+Index=1

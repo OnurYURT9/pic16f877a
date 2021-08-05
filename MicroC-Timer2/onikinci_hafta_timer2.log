@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\gs_fa\Desktop\MicroC\onikinci_hafta_timer2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\gs_fa\Desktop\MicroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "onikinci_hafta_timer2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	onikinci_hafta_timer2.c
+diagnostics: 28	123	Compiled Successfully	onikinci_hafta_timer2.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)	Used RAM (bytes): 6 (2%)  Free RAM (bytes): 346 (98%)
+hint: 0	1144	Used ROM (program words): 53 (1%)  Free ROM (program words): 8139 (99%)	Used ROM (program words): 53 (1%)  Free ROM (program words): 8139 (99%)
+diagnostics: 0	125	Project Linked Successfully	onikinci_hafta_timer2.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'onikinci_hafta_timer2.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 11 May 2020, 04:21:10	onikinci_hafta_timer2.mcppi
